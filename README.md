@@ -33,32 +33,19 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
-Additional Expectations:
-n/a
-
-
 Assignment Example 1 Picture:    
-    ![TBD](public/assets/website1.jpg)
-
-Assignment Example 2 Picture:
-    ![TBD](public/assets/website2.jpg)
-
-Assignment Example 3 Picture:
-    ![TBD](public/assets/website3.jpg)
-
-Assignment Example 4 Picture:
-    ![TBD](public/assets/website4.jpg)
+    ![TBD]()
 
 Git Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/uofa-module19-pwatexteditor-lsandura   
 
 
-Git Page that shows finalized project results:
+Git Page that shows finalized project results: (if applies)
     https://laurabora118.github.io/uofa-module19-pwatexteditor-lsandura  
 
 
 How to use, run or deploy a clone:
-
+    npm i before npm run
 
 
 Video link of working app deployed: (if applicable)
@@ -68,8 +55,6 @@ Video link of working app deployed: (if applicable)
 References:
     1 - Assignment criteria received in UofA assignments
 
-    2 -
-
-    3 -
+    2 - Starter code provided from assignment
 
 
